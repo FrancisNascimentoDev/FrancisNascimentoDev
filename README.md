@@ -6,6 +6,7 @@
 
 **🚧 EM CONSTRUÇÃO 🚧**
 
+###
 
 **Sobre mim:**
  - ⚒️ Sou Técninco em Mecatrônica apaixonado por tecnologia.
@@ -14,7 +15,7 @@
  - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 
 
-
+###
              
 **Aprendendo mais sobre:**
 
