@@ -80,12 +80,16 @@
 
 **GitHub Stats**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FrancisNascimentoDev&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=FrancisNascimentoDev&theme=dark#gh-dark-mode-only"/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FrancisNascimentoDev&theme=dark#gh-dark-mode-only" />
+</a>
+
 
 **Minhas Contribuições**
 
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FrancisNascimentoDev&repo=dio-lab-open-source&bg_color=122&border_color=30A3DC&show_icons=true&icon_color=50A5DC&title_color=E94D5F&text_color=EEB)
-
-##
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FrancisNascimentoDev&repo=dio-lab-open-source&theme=dark#gh-dark-mode-only)
 
 
