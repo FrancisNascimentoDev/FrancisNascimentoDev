@@ -4,8 +4,6 @@
 # Fr4nc15 N45c1m3n70
 ###
 
-**🚧 EM CONSTRUÇÃO 🚧**
-
 ###
 
 **Sobre mim:**
