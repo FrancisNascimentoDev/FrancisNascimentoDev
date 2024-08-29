@@ -67,11 +67,12 @@
 
 **Conecte-se comigo**
 <div align="left">
- <a href="https://www.linkedin.com/in/francisnascimento" target="_black"> 
+ <a href="https://www.linkedin.com/in/francisnascimento"> 
  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
- <a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank">
+ <a href="https://instagram.com/francis.do.nascimento">
  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+ <a href="https://t.me/NascimentFrancis">
+ <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
 </div>
 
 ###
@@ -88,15 +89,5 @@
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FrancisNascimentoDev&repo=dio-lab-open-source&bg_color=122&border_color=30A3DC&show_icons=true&icon_color=50A5DC&title_color=E94D5F&text_color=EEB)
 
 ##
-<div>
-<a href="https://github.com/FrancisNascimentoDev">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancisNascimentoDev&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FrancisNascimentoDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
 
-
-##
-
-
-![Snake animation](https://github.com/FrancisNascimentoDev/FrancisNascimentoDev/blob/output/github-contribution-grid-snake.svg)
