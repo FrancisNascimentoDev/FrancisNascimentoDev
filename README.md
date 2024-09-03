@@ -1,4 +1,3 @@
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/JH51Z5S/png-clipart-programmer-computer.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right"/></a>
 
 
 # Fr4nc15 N45c1m3n70
