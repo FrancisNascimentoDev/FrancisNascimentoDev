@@ -6,7 +6,7 @@
 ###
 
 **Sobre mim:**
- - ⚒️ Sou Técninco em Mecatrônica apaixonado por tecnologia.
+ - ⚒️ Sou Técnico em Mecatrônica apaixonado por tecnologia.
  - 🎓 Cursando Análise e Desenvolvimento de Sistemas - UniCarioca.
  - 🎓 Estudando programação Java, SpringBoot, Python, MySql, NoSql.  
  - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
