@@ -13,9 +13,11 @@ alem disso estou cursando Análise Desenvolvimento de Sistemas, estou no 2º per
 ### Situação atual
 
 🎓Formado como Desenvolvedor Back-End no Senai
-
-📚 Em processo de aprendizagem de Front-End Javascript, CSS e HTML.
-🎓 Me aprimorando em Back-end Java, SpringBoot, Python, MySql, NoSql.  
+<br>
+📚 Em processo de aprendizagem de Front-End Javascript, CSS e HTML. 
+<br>
+📚 Me aprimorando em Back-end Java, SpringBoot, Python, MySql, NoSql.
+<br>
 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 
 **Aprendendo mais sobre:**
