@@ -1,4 +1,4 @@
-[![README](https://img.shields.io/static/v1?label=readme&message=en-US&color=blue&style=plastic)](https://github.com/FrancisNascimentoDev)
+[![README](https://img.shields.io/static/v1?label=readme&message=en-US&color=blue&style=plastic)](./README_pt-BR.md)
 
 <h1 align="center">FRANCIS NASCIMENTO</h1>
 <h3 align="center">Desenvolvedor de Software</h3>
