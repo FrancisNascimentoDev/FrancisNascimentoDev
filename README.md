@@ -87,11 +87,11 @@ Tenho forte interesse em desenvolvimento Back-End, mas também estou ampliando m
   <tr>
     <td align="center">
  <!-- ========================== API de Ponto Eletrônico ==========================-->
-      <a href="https://link-do-projeto-1.com">
-        <img src="https://github.com/user-attachments/assets/f1999515-0f12-44c7-8c9c-57b381e1e0a3)" alt="Projeto 1" width="350"  />
+      <a href="https://github.com/FrancisNascimentoDev/O.S-fiocruz-">
+        <img src="https://github.com/FrancisNascimentoDev/Ponto_Eletronico_API/blob/main/img/Ponto_Eletronico_API.jpg" alt="Projeto 1" width="350"  />
       </a>
       <br />
-      <strong>🔗 <a href=""> API de Ponto Eletrônico</a></strong>
+      <strong>🔗 <a href="https://github.com/FrancisNascimentoDev/O.S-fiocruz-"> API de Ponto Eletrônico</a></strong>
     </td>
 <!-- ========================== Clima tempo ==========================-->
     <td align="center">
@@ -102,13 +102,13 @@ Tenho forte interesse em desenvolvimento Back-End, mas também estou ampliando m
       <br />
       <strong>🔗 <a href="https://github.com/FrancisNascimentoDev/ClimaTempo">Clima tempo</a></strong>
     </td>
-<!-- ========================== API de Ponto Eletrônico ==========================-->
+<!-- ========================== Gerador de Ordem de Serviço ==========================-->
     <td align="center">
-      <a href="https://link-do-projeto-3.com">
-        <img src="https://raw.githubusercontent.com/FrancisNascimentoDev/repositorio-3/main/assets/imagem3.png" alt="Projeto 3" width="200" />
+      <a href="https://github.com/FrancisNascimentoDev/O.S-fiocruz">
+        <img src="https://github.com/FrancisNascimentoDev/O.S-fiocruz-/blob/main/img/Gerador%20de%20Ordem%20de%20Servi%C3%A7o.png" alt="Projeto 3" width="350" />
       </a>
       <br />
-      <strong>🔗 <a href="https://link-do-projeto-3.com">Projeto 3</a></strong>
+      <strong>🔗 <a href="https://github.com/FrancisNascimentoDev/O.S-fiocruz-">Gerador de Ordem de Serviço</a></strong>
     </td>
   </tr>
 </table>
