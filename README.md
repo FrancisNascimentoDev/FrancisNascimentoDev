@@ -1,7 +1,11 @@
-[![README](https://img.shields.io/static/v1?label=readme&message=pt-BR&color=blue&style=plastic)](https://github.com/FrancisNascimentoDev)
+[![README](https://img.shields.io/static/v1?label=readme&message=pt-BR&color=blue&style=plastic)](README.md)
+[![README](https://img.shields.io/static/v1?label=readme&message=en-US&color=green&style=plastic)](README.en.md)
+
+> 🇺🇸 **Prefer English? [Click here for the English version](README.en.md)**
 
 <h1 align="center">FRANCIS NASCIMENTO</h1>
 <h3 align="center">Desenvolvedor de Software em Formação 🚀</h3>
+
 
 ---
 
