@@ -82,27 +82,38 @@ Tenho forte interesse em desenvolvimento Back-End, mas também estou ampliando m
 
 ### 📌 Repositório em Destaque
 
+
+<table>
+  <tr>
+    <td align="center">
+ <!-- ========================== API de Ponto Eletrônico ==========================-->
+      <a href="https://link-do-projeto-1.com">
+        <img src="https://github.com/user-attachments/assets/f1999515-0f12-44c7-8c9c-57b381e1e0a3)" alt="Projeto 1" width="350"  />
+      </a>
+      <br />
+      <strong>🔗 <a href=""> API de Ponto Eletrônico</a></strong>
+    </td>
+<!-- ========================== Clima tempo ==========================-->
+    <td align="center">
+      <a href="https://github.com/FrancisNascimentoDev/ClimaTempo">
+        <img src="https://github.com/FrancisNascimentoDev/ClimaTempo/blob/main/img/Clima%20Tempo.png" 
+          alt="Projeto 2" width="350" />
+      </a>
+      <br />
+      <strong>🔗 <a href="https://github.com/FrancisNascimentoDev/ClimaTempo">Clima tempo</a></strong>
+    </td>
 <!-- ========================== API de Ponto Eletrônico ==========================-->
-
-<p align="center">
-  <a href="https://github.com/FrancisNascimentoDev/Ponto_Eletronico_API">
-    <img src="https://private-user-images.githubusercontent.com/148149210/427217365-f1999515-0f12-44c7-8c9c-57b381e1e0a3.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDUwMDg2MTYsIm5iZiI6MTc0NTAwODMxNiwicGF0aCI6Ii8xNDgxNDkyMTAvNDI3MjE3MzY1LWYxOTk5NTE1LTBmMTItNDRjNy04YzljLTU3YjM4MWUxZTBhMy5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQxOFQyMDMxNTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jNWQxYjJiYzZkODNkYTEyZWEzNmUzYTU0NDdmMmE1NjJlY2FkYTAyYTFmZDI3ZjFhZmU0OGUwMzU2NGU4ZjVjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.0wzZTf6Y7fyuLBfL7PCUq63UyCQu6v-OYnGJukKjKWI" alt="API de Ponto Eletrônico" width="300"/>
-  </a>
-  <br/>
-  <strong><a href="https://github.com/FrancisNascimentoDev/Ponto_Eletronico_API">🔗 API de Ponto Eletrônico</a></strong>
-</p>
-
-<!-- ========================== API de Ponto Eletrônico ==========================-->
-
-<p align="center">
-  <a href="https://meu-projeto.netlify.app">
-    <img src="https://raw.githubusercontent.com/FrancisNascimentoDev/meu-repositorio/main/assets/tela.png" alt="Demonstração do Projeto" width="300"/>
-  </a>
-  <br/>
-  <strong><a href="https://meu-projeto.netlify.app">🔗 Acessar o Projeto</a></strong>
-</p>
+    <td align="center">
+      <a href="https://link-do-projeto-3.com">
+        <img src="https://raw.githubusercontent.com/FrancisNascimentoDev/repositorio-3/main/assets/imagem3.png" alt="Projeto 3" width="200" />
+      </a>
+      <br />
+      <strong>🔗 <a href="https://link-do-projeto-3.com">Projeto 3</a></strong>
+    </td>
+  </tr>
+</table>
 
 
----
+
 
 🧠 *"Aprender nunca é demais. Cada linha de código é uma chance de fazer melhor."* – Francis Nascimento
