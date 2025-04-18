@@ -1,7 +1,7 @@
 [![README](https://img.shields.io/static/v1?label=readme&message=pt-BR&color=blue&style=plastic)](README.md)
 [![README](https://img.shields.io/static/v1?label=readme&message=en-US&color=green&style=plastic)](README.en.md)
 
-> 🇺🇸 **Prefer English? [Click here for the English version](README.en.md)**
+
 
 <h1 align="center">FRANCIS NASCIMENTO</h1>
 <h3 align="center">Desenvolvedor de Software em Formação 🚀</h3>
@@ -117,7 +117,19 @@ Tenho forte interesse em desenvolvimento Back-End, mas também estou ampliando m
   </tr>
 </table>
 
-
+---
 
 
 🧠 *"Aprender nunca é demais. Cada linha de código é uma chance de fazer melhor."* – Francis Nascimento
+
+
+---
+
+## 👤 Autor
+
+Feito com 💻 por **Francis Nascimento**  
+🔗 [Meu GitHub](https://github.com/FrancisNascimentoDev)  
+📧 francisn.dev@gmail.com  
+🌐 [Meu Portefólio](https://francisnascimentodev.github.io/FrancisDev/)
+
+
