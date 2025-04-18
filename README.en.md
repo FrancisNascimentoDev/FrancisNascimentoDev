@@ -119,3 +119,13 @@ I have a strong interest in Back-End development but am also expanding my horizo
 ---
 
 🧠 *"Learning is never too much. Every line of code is a chance to do better."* – Francis Nascimento
+
+---
+
+## 👤 Author
+
+Made with 💻 by **Francis Nascimento**  
+🔗 [My GitHub](https://github.com/FrancisNascimentoDev)  
+📧 francisn.dev@gmail.com  
+🌐 [My Portfolio](https://francisnascimentodev.github.io/FrancisDev/)
+
