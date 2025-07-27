@@ -1,4 +1,4 @@
-[[![README](https://img.shields.io/static/v1?label=readme&message=pt-BR&color=blue&style=plastic)](README.md)
+[![README](https://img.shields.io/static/v1?label=readme&message=pt-BR&color=blue&style=plastic)](README.md)
 [![README](https://img.shields.io/static/v1?label=readme&message=en-US&color=green&style=plastic)](README.en.md)
 
 
