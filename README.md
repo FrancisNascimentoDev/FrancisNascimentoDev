@@ -149,7 +149,7 @@
 <!-- ========================== Clima tempo ==========================-->
     <td align="center">
       <a href="https://github.com/FrancisNascimentoDev/ClimaTempo">
-        <img src="https://live.staticflickr.com/65535/54682803121_1de9cf2075_z.jpg" 
+        <img src="https://live.staticflickr.com/65535/54682104592_9419bf9158_n.jpg" 
           alt="Projeto 2" width="350" />
       </a>
       <br />
@@ -180,5 +180,17 @@ Feito com 💻 por **Francis Nascimento**
 🔗 [Meu GitHub](https://github.com/FrancisNascimentoDev)  
 📧 francisn.dev@gmail.com  
 🌐 [Meu Portefólio](https://francisnascimentodev.github.io/FrancisDev/)
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FrancisNascimentoDev/FrancisNascimentoDev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FrancisNascimentoDev/FrancisNascimentoDev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FrancisNascimentoDev/FrancisNascimentoDev/output/pacman-contribution-graph.svg">
+</picture>
+
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=FrancisNascimentoDev.FrancisNascimentoDev&"  />
+</div>
 
 
