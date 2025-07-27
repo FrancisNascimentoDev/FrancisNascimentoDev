@@ -1,4 +1,4 @@
-[![README](https://img.shields.io/static/v1?label=readme&message=pt-BR&color=blue&style=plastic)](README.md)
+[[![README](https://img.shields.io/static/v1?label=readme&message=pt-BR&color=blue&style=plastic)](README.md)
 [![README](https://img.shields.io/static/v1?label=readme&message=en-US&color=green&style=plastic)](README.en.md)
 
 
@@ -116,7 +116,7 @@ Tenho forte interesse em desenvolvimento Back-End, mas também estou ampliando m
 <!-- ========================== Clima tempo ==========================-->
     <td align="center">
       <a href="https://github.com/FrancisNascimentoDev/ClimaTempo">
-        <img src="https://github.com/FrancisNascimentoDev/ClimaTempo/blob/main/img/Clima%20Tempo.png" 
+        <img src="https://live.staticflickr.com/65535/54682803121_1de9cf2075_z.jpg" 
           alt="Projeto 2" width="350" />
       </a>
       <br />
